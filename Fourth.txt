@@ -1,1 +1,7 @@
 This is for creating second branch and merging.
+apple
+protApple
+Banana
+Carrot
+Bread Omlet n Orange Juice
+
