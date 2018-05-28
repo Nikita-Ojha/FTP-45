@@ -1,7 +1,10 @@
-This is my first file.hfdfguekfguaaj
-jhfjafgag
-jhagdaghfhag
+
+
 i am making some changes
 to create conflict
+<<<<<<< HEAD
 i am making changes to this file
 to create conflicts
+
+=======
+>>>>>>> parent of faf8b73... comitting
